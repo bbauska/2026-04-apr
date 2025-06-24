@@ -1,6 +1,7 @@
 <!-- css/styles.css for 2026-apr.bauska.org -->
+<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
-  font-family:Helvetica;
+  font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
 table {
   table-layout:fixed;
@@ -15,14 +16,6 @@ table {
   text-align:right;
 }
 
-p {
-  color:#fff;
-  font-size:50%;
-  padding-right:50px;
-  text-align:right;
-  text-decoration:none;
-  vertical-align:bottom;
-}
 h1 {
   color:#fff;  /* white */
   font-size:200%;
@@ -30,7 +23,7 @@ h1 {
   letter-spacing:3px;
   padding-right:50px;
   padding-top:150px;
-  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  text-shadow:-1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   vertical-align:top;
 }
 /* padding-bottom:150px; */
@@ -57,7 +50,6 @@ h1 {
   text-align:left;
   vertical-align:top;
 }
-
 .off-day {
   background-color:#ddd;  /* very light gray */
 }
