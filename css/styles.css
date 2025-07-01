@@ -12,7 +12,7 @@ table {
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
-  height:300px;
+  height:500px;
   text-align:right;
 }
 
@@ -101,7 +101,7 @@ a:hover {
   color: #990000;  /* crimson */
 }
 a:hover::after {
-  width: 88%;
+  width: 85%;
 }
 
 <!-- World, National & International Days -->
