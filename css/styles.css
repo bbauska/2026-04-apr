@@ -105,6 +105,9 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.aprilFools {
+    background-color:#ff9999;  /* light salmon pink */
+}
 .april-fools {
     background-color:#ff9999;  /* light salmon pink */
 }
