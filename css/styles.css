@@ -1,5 +1,6 @@
-<!-- css/styles.css for 2026-apr.bauska.org -->
-<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ css/styles.css of 2026-04-apr making 2026-apr.bauska.org ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
@@ -26,7 +27,6 @@ h1 {
   text-shadow:-1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   vertical-align:top;
 }
-/* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
   font-size:65%;
@@ -67,7 +67,6 @@ ul {
     padding:5px;
     margin:5px 0;
 }
-<!-- added 6-10-25 5:08pm -->
 .container {
   background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
@@ -117,39 +116,75 @@ a:hover::after {
 .natl-burrito {
     background-color:#ff9999;  /* light red */
 }
+.good-friday {
+  background-color: #98fb98;  /* very soft lime green */
+}
+.natl-hug-a-newsperson {
+  background-color: #ff9999;  /* light salmon pink */
+}
+.easter {
+  background-color: #ff9999;  /* light red */
+}
 .deep-dish-pizza {
     background-color:#9ab3ff;  /* pale blue */
 }
-.me-walk {
+.natl-beer {
+  background-color: #ffc040  /* light orange */
+}
+.world-health {
     background-color:#98fb98;  /* very soft lime green */
 }
-.natl-grilled-cheese {
-    background-color:#a6f4ff;  /* pale cyan */
+.intl-day-of-pink {
+  background-color: ffc0cb  /* very pale red */
+}
+.natl-unicorn {
+  background-color: #9ab3ff;  /* pale blue */
+}
+.natl-siblings {
+  background-color: #d3d3d3;  /* light gray */
+}
+.natl-pet {
+  background-color: #4dff4d;  /* light lime green */
+}
+.intl-day-of-space-flight {
+  background-color: #d3d3d3;  /* light gray */
 }
 .palm-sunday {
-    background-color:#ffc0cb;  /* very pale red (pink) */
+  background-color: #9ab3ff  /* pale blue */
 }
 .taxes-due {
-    background-color:#ffff9a;  /* pale yellow */
-}
-.good-friday {
-    background-color:#d3d3d3;  /* light gray */
+  background-color: #98fb98;  /* very soft lime green */
 }
 .passover {
     background-color:#4dff4d;  /* light lime green */
 }
-.easter {
-    background-color:#ff68d8;  /* very light pink */
+.4-20 {
+  background-color: #ba9ce8;  /* very soft violet */
 }
 .earth-day {
     background-color:#ccff9a;  /* pale green */
 }
-.arbor-day {
+.take-child-to-work {
+  background-color: #d3d3d3;  /* light gray */
+}
+.arbor {
     background-color:#ffd700;  /* gold */
+}
+.dna {
+    background-color:#ff68d8;  /* very light pink */
+}
+.world-penguin {
+    background-color:#9aff9a;  /* pale lime green */
+}
+.natl-pretzel {
+    background-color:#a6f4ff;  /* pale cyan */
 }
 .natl-superhero {
     background-color:#9aff9a;  /* pale lime green */
 }
-.denim-day {
+.natl-denim {
     background-color:#ba9ce8;  /* very soft violet */
+}
+.intl-jazz {
+    background-color:#ffc0cb;  /* very pale red (pink) */
 }
